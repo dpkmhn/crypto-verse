@@ -1,0 +1,17 @@
+.footer {
+    display: flex;
+    align-items: center;
+    background-color: #14161a;
+    color: white;
+    flex-direction: column;
+}
+
+.name {
+    font-size: 18px;
+    padding: 20px 30px 20px;
+    color: white;
+}
+
+a {
+    color: white;
+}

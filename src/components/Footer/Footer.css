@@ -1,6 +1,6 @@
-*{
+/* *{
     align-items: center;
-}
+} */
 
 .footer {
     display: flex;
@@ -14,6 +14,8 @@
     font-size: 18px;
     padding: 20px 30px 20px;
     color: white;
+    align-items: center;
+
 }
 
 a {

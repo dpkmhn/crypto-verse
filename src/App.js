@@ -24,10 +24,12 @@ function App() {
         <Header />
         <Route path="/" component={Homepage} exact />
         <Route path="/coins/:id" component={CoinPage} exact />
+        <Footer/> 
+
       </div>
       <Alert />
-      <Footer/> 
     </BrowserRouter>
+    
   );
 }
 

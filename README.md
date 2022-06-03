@@ -1,4 +1,4 @@
-<!-- 
+
 
 # CryptoVerse
 
@@ -22,18 +22,16 @@
 
 ## Features
 
-### Trending Movies:-
-<img src="screenshots/home.png" alt="Smiley face" width = "700"  height = "400">
+### Homepage
+<img src="screenshots/header.png" alt="Smiley face" width = "800"  height = "400">
+<img src="screenshots/home.png" alt="Smiley face" width = "800"  height = "400">
 
-### Movies displayed category wise:-
+### Cryptocoin page:-
  
-<img src="screenshots/movies.png" alt="Smiley face" width = "700"  height = "400">
+<img src="screenshots/coin.png" alt="Smiley face" width = "800"  height = "400">
 
-### Series displayed category wise:-
+### Watchlist:-
  
-<img src="screenshots/series.png" alt="Smiley face" width = "700"  height = "400">
+<img src="screenshots/track.png" alt="Smiley face" width = "800"  height = "400">
 
-### Search
  
-<img src="screenshots/search.png" alt="Smiley face" width = "700"  height = "400">
- -->

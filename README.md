@@ -2,6 +2,9 @@
 
 # CryptoVerse
 
+## Demo
+#### Live Version :   https://crypto-verse-web.netlify.app/
+
 ## Table of contents
 
 - [General ](#general-info)
